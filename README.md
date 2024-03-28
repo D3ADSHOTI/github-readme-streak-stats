@@ -25,7 +25,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ```
 
-3. Star the repo 😄
+3. Start the repo 😄
 
 ### Next Steps
 
